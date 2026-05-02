@@ -1,5 +1,4 @@
 # CodeAlpha_HeartDiseasePrediction
-# CodeAlpha: Disease Prediction from Medical Data
 
 ## 📌 Project Overview
 This project was developed during my **Machine Learning Internship at CodeAlpha**. The goal is to apply classification techniques to a structured medical dataset to predict the likelihood of heart disease in patients.
