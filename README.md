@@ -33,7 +33,7 @@ Following the internship guidelines, the model was assessed using the following 
 With an **ROC-AUC of 0.92**, the model demonstrates an excellent ability to distinguish between patients with and without heart disease, making it a reliable predictive model.
 
 ## 📂 Repository Structure
-*   `Disease_Prediction.ipynb`: Complete source code and analysis.
+*   `disease_prediction_from_medical_data.ipynb`: Complete source code and analysis.
 *   `heart.csv`: Dataset used for training and testing.
 *   `README.md`: Project documentation.
 
